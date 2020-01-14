@@ -9,9 +9,13 @@ Forthcoming
 Eloquent
 ========
 
+Forthcoming
+-----------
+* Rename from kobuki_msgs -> kobuki_ros_interfaces, `#1 <https://github.com/kobuki-base/kobuki_ros_interfaces>`_
+
 0.8.0 (2020-01-09)
 ------------------
-* Ros2 eloquent upgrade, `#11 <https://github.com/yujinrobot/kobuki_msgs/issues/11>`_ 
+* ROS2 eloquent upgrade, `#11 <https://github.com/yujinrobot/kobuki_msgs/issues/11>`_ 
 
 Hydro, bugfixing
 ================
