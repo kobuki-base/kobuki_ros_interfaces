@@ -2,23 +2,16 @@
 Changelog
 ^^^^^^^^^
 
-Forthcoming
------------
-* ...
-
 Eloquent
 ========
 
-Forthcoming
------------
-* Rename from kobuki_msgs -> kobuki_ros_interfaces, `#1 <https://github.com/kobuki-base/kobuki_ros_interfaces>`_
-
-0.8.0 (2020-01-09)
+1.0.0 (2020-01-13)
 ------------------
+* Rename from kobuki_msgs -> kobuki_ros_interfaces, `#1 <https://github.com/kobuki-base/kobuki_ros_interfaces/pull/1>`_
 * ROS2 eloquent upgrade, `#11 <https://github.com/yujinrobot/kobuki_msgs/issues/11>`_ 
 
-Hydro, bugfixing
-================
+Indigo-Melodic, Ardent
+======================
 
 0.6.1 (2014-08-11)
 ------------------
@@ -32,17 +25,12 @@ Hydro, bugfixing
 * Migrate changelog from ros wiki to this repo.
 * Add bugtracker and repo URLs.
 
-
-Hydro, unstable
-===============
-
 0.4.0 [2013-07-08]
 ------------------
 * First Hydro release (no changes).
 
-
-Groovy, bugfixing
-=================
+Groovy
+======
 
 0.3.1 [2013-02-08]
 ------------------
@@ -64,10 +52,3 @@ Groovy, bugfixing
 ------------------
 * First freeze.
 
-
-Fuerte, deprecated
-==================
-
-0.1.6 [2012-12-21]
-------------------
-* Last compatible fuerte release.

@@ -2,7 +2,7 @@
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
   <name>kobuki_ros_interfaces</name>
-  <version>0.8.0</version>
+  <version>1.0.0</version>
   <description>
     <p>
       ROS2 message, service and action interfaces for the Kobuki.
@@ -15,7 +15,6 @@
   <url type="website">https://index.ros.org/k/kobuki_ros_interfaces/github-kobuki-base-kobuki_ros_interfaces</url>
   <url type="repository">https://github.com/kobuki-base/kobuki_ros_interfaces</url>
   <url type="bugtracker">https://github.com/kobuki-base/kobuki_ros_interfaces/issues</url>
-  
   
   <buildtool_depend>ament_cmake</buildtool_depend>
 
