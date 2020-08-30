@@ -1,8 +1,18 @@
 Kobuki ROS Interfaces
 =====================
 
+![Kobuki Logo](resources/kobuki.png)
+
+----
+
 ROS2 message, service and action interfaces for the Kobuki.
 
 ----
 
-For the ROS1 interfaces, visit the http://github.com/yujinrobot/kobuki_msgs repository.
+## Documentation
+
+To get started with Kobuki in ROS2, visit the relevant documentation release on read-the-docs:
+
+| ROS2 Distro | Kobuki Documentation Release |
+|:------------------:|:----------------------------:|
+| Foxy | https://kobuki.readthedocs.io/en/release-1.0.x/ |
