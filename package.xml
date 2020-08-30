@@ -12,7 +12,7 @@
   <author>Younghun Ju</author>
   <maintainer email="d.stonier@gmail.com">Daniel Stonier</maintainer>
   <license>BSD</license>
-  <url type="website">https://index.ros.org/k/kobuki_ros_interfaces/github-kobuki-base-kobuki_ros_interfaces</url>
+  <url type="website">https://kobuki.readthedocs.io/en/release-1.0.x/</url>
   <url type="repository">https://github.com/kobuki-base/kobuki_ros_interfaces</url>
   <url type="bugtracker">https://github.com/kobuki-base/kobuki_ros_interfaces/issues</url>
   
